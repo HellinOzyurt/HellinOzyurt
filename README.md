@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hellin</h1>
 
-<h3 align="center">Software Development | Data Science | Bioinformatics</h3>
+<h3 align="center">Software Development | Data Science | Game Developer</h3>
 
 * 🔬 I'm currently working on **bioinformatics and genome analysis projects.**
 * 💻 I'm interested in **Python, Data Science, Software Development, and Computational Biology.**
@@ -14,7 +14,6 @@
 <a href="https://linkedin.com/in/hellin%C3%B6zyurt" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-
 <a href="https://www.hackerrank.com/hellinozyurt" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
 </a>
@@ -97,15 +96,17 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HellinOzyurt&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="HellinOzyurt GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HellinOzyurt&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="HellinOzyurt Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HellinOzyurt&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="HellinOzyurt GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellinOzyurt&layout=compact&theme=tokyonight&hide_border=true" alt="HellinOzyurt Top Languages" height="170"/>
 </p>
+
+<h3 align="center">🔥 GitHub Streak</h3>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HellinOzyurt&theme=tokyonight&hide_border=true" alt="HellinOzyurt GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=HellinOzyurt&theme=tokyonight&hide_border=true" alt="HellinOzyurt GitHub Streak"/>
 </p>
 
-<h3 align="center">🐍 My Contributions</h3>
+<h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
 <picture>
@@ -116,5 +117,5 @@
 </p>
 
 <p align="center">
-<i>Always learning. Always building. 🚀</i>
+  <i>Always learning. Always building. 🚀</i>
 </p>
